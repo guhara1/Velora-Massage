@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: NaverBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Daumoa
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+Sitemap: https://velora-massage.netlify.app/sitemap.xml
+Sitemap: https://velora-massage.netlify.app/sitemap-fast.xml
+Sitemap: https://velora-massage.netlify.app/sitemap-hub.xml
+Sitemap: https://velora-massage.netlify.app/sitemap-1.xml
+Sitemap: https://velora-massage.netlify.app/sitemap-2.xml
+Sitemap: https://velora-massage.netlify.app/sitemap-3.xml
+Sitemap: https://velora-massage.netlify.app/sitemap-4.xml
+Sitemap: https://velora-massage.netlify.app/rss.xml
